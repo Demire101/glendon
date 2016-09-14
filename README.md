@@ -21,3 +21,14 @@
 - click finish and open in new window
 - right click .idea and open a new file
 - test program by printing hello world
+
+## pupil environment
+
+- go to this link: [github] https://github.com/pupil-labs/pupil/wiki/Getting-Started
+- click the normal users link
+- select the download link corresponding to your set up (mac,linux)
+- for windows [github] https://github.com/pupil-labs/pupil/wiki/Dependencies-Installation-Windows#system-requirements
+- open the pupil set up in your downloads folder (mac,linux: this will make an installer appear on your desktop)
+- follow directions given
+- open pupil
+
